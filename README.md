@@ -1,3 +1,5 @@
+![Bridge Peer logo](bridge-peer-logo-pink.png)
+
 # The Bridge Peer — Keva Sutton
 
 Website designer and graphic designer for small businesses.
@@ -14,7 +16,20 @@ Website designer and graphic designer for small businesses.
 ## In this repository
 
 - `index.html` — the master copy of The Bridge Peer website code
-- Design examples (pink Bridge Peer logo, logo designs, website mockups, color and font sheets) are being added to a `design-examples` folder
+- `bridge-peer-logo-pink.png` — the pink Bridge Peer logo
+- `design-examples/` — design examples, including:
+  - `bridge-peer-logo-pink.png` — pink Bridge Peer logo
+  - `logos-ive-designed-sutton.png` — grid of logos Keva has designed
+  - `marketplace-cover-photo-sutton.png` — Sutton designer flyer with pricing
+  - `example-website-mockup.png` — Angela's Sparkling Spotless Spaces website mockup
+  - `example-kit-brightnest-cleaning.png` — BrightNest Cleaning example page kit
+  - `example-kit-elmwood-cuts.png` — Elmwood Cuts example page kit
+  - `example-kit-gilded-rose.png` — Gilded Rose example page kit
+  - `example-kit-lawn-care.png` — Fresh Cut Lawn Co example page kit
+  - `example-kit-niagara-auto-care.png` — Niagara Auto Care example page kit
+  - `example-kit-rolling-skillet.png` — The Rolling Skillet example page kit
+  - `color-sheet-expanded.png` — brand color sheet
+  - `font-sheet-expanded.png` — brand font sheet
 
 ## Service areas
 
