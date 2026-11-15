@@ -4,8 +4,6 @@
 
 Website designer and graphic designer for small businesses.
 
-**Live site:** https://thebridgepeer.netlify.app
-
 ## What I do
 
 - One-page websites that are clean, mobile friendly, and easy for customers to use
@@ -39,4 +37,3 @@ Buffalo, Rochester, Geneva, Watertown, and Syracuse, NY. Remote friendly everywh
 
 - Email: keva.crpa@gmail.com
 - Phone: (315) 278-0682
-- Website: https://thebridgepeer.netlify.app
